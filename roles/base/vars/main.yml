@@ -1,0 +1,24 @@
+---
+# vars file for base
+brew_pkgs:
+  - tree
+  - wget
+  - neofetch
+  - tmux
+  - nvm
+  - zsh
+  - git
+brew_taps:
+  - homebrew/cask-fonts
+brew_apps:
+  # Develop
+  - docker
+  - google-chrome
+  - iterm2
+  - visual-studio-code
+  - skitch
+  - postman
+  # Communication
+  - skype
+  - slack
+  - telegram-desktop
